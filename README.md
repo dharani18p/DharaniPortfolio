@@ -23,6 +23,14 @@ Highly Energetic and Active student with good problem solving and tacktical tech
 - **Other Skills:**          ~ Team Collaboration, Decision-Making ,Time Management ,Problem-Solving, Responsive Thinking, Creative and Innovation
 ---
 
+## Coding Profiles
+
+- [HackerRank](https://www.hackerrank.com/profile/dharani1806p)
+- [CodeChef](https://www.codechef.com/users/valid_shine_28)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/dharaniz7r1/?ref=header_profile)
+
+---
+
 ## Projects
 ### GotIt- AI-Driven Multilingual Text Summarizer: Enhancing Efficiency and Accessibility
 - **Description:** This project has enchanced with more Ai based techniques like Multilingual support ,keywords extractions.
@@ -87,7 +95,7 @@ surveillance videos.
 
 ---
 
-## Participation
+## Active Participation  
 - Participated in **Hack With Folks 2023**, showcasing innovative ideas for food reuse.
 - Contributed to the **Amazon ML Challenge 2024**, competing against 74,000+ teams.
 - Engaged in **IBM Datathon 2023 ,2024** initiated a play in being a part of the datathon.
@@ -95,14 +103,7 @@ surveillance videos.
 
 ---
 
-## Coding Profiles
 
-- [HackerRank](https://www.hackerrank.com/dashboard)
-- [CodeChef](https://www.codechef.com/dashboard)
-- [GeeksforGeeks](#)
-- [AtCoder](#)
-
----
 
 
 
@@ -110,5 +111,5 @@ surveillance videos.
 ## Contact
 reach out to me at:
 - **What's App:** 9176780818
-- **Email:** [vijisduraioffical@gmail.com](mailto:vijisduraioffical@gmail.com)
-- **LinkedIn:** [Vijis Durai](https://www.linkedin.com/in/vijis-durai-r-801143298)
+- **Email:** [dharani1806p@gmail.com](mailto:dharani1806p@gmail.com)
+- **LinkedIn:** [dharani18p-LinkedIn](https://www.linkedin.com/in/dharani-p-794905270/)
