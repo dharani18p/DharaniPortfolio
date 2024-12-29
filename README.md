@@ -1,7 +1,7 @@
 
 ## About Me
 
-Highly Energetic and Active student with good problem solving and tacktical technique. I will ensure you that, I can prove my consistency and the effect that would make the outcome to the core.
+Highly Energetic and Active student with good problem solving and tacktical technique.Here I have been Open up my Portfolio to showcase my projects and my experirence.Since my Schooling I have been a consistent Performer and won achievements,I will ensure you that, I can prove my consistency and the effect Through thsi Prime Batch that would make the outcome to the core.
 
 - **Name:** DHARANI P
 - **Reg No:** 212222220011
