@@ -1,4 +1,4 @@
-### DHARANI P - Portfolio
+#  DHARANI P - Portfolio
 
 Welcome to my portfolio! I am a student from the Department of Information Technology, aspiring to make impactful contributions in the IT industry. This repository showcases my projects, coding skills, accomplishments, and problem-solving abilities.
 
@@ -28,23 +28,35 @@ I am passionate about technology, coding, and solving complex problems. My focus
 
 ---
 
-## Mini Projects
-### BioBotanica: Medicinal Plant Detection
-- **Description:** The BioBotanica Next-Gen project is an AI-driven solution that redefines medicinal plant identification and information accessibility by employing advanced machine learning and language models. Designed to overcome the limitations of traditional plant identification methods, which are time-intensive and require expert knowledge, BioBotanica Next-Gen enables users—whether healthcare professionals, researchers, educators, or plant enthusiasts—to gain valuable botanical insights effortlessly.
+## Projects
+### GotIt- AI-Driven Multilingual Text Summarizer: Enhancing Efficiency and Accessibility
+- **Description:** This project has enchanced with more Ai based techniques like Multilingual support ,keywords extractions.
+Here, this summarizer also supports PDF where you can upload a particular Research paper and this AI summarizer will Analysis your paper and gives you a categorized summary.
 - **Technologies Used:** Streamlit, PyTorch, Torchvision, OpenAI GPT - 4o, Visual Studio Code , Gen AI .
-- **GitHub Repository:** [BioBotanica](https://github.com/Vijisdurai/BioBotanica.git)
+- **Features:** Summerize the input text into the user convenient language and also extarcts we words,as well as a document
+- **GitHub Repository:** [GotIt](https://github.com/dharani18p/Miniproject)
 
-### Real-Time Product Recommendation System
-- **Description:** A real-time, intelligent product recommendation system designed to help consumers make informed purchasing decisions by comparing live prices, product features, and expert reviews across multiple e-commerce platforms. It addresses challenges like inconsistent information, fluctuating prices, and unreliable customer reviews.
-- **Technologies Used:** NLP, API Integration, Machine Learning, Web Scraping (RapidApi).
-- **Features:** Product comparisons based on price , Personalized Recommendations and eal-Time Comparison.
+### AI-Powered CCTV Event Analyzer
+- **Description:** This project creates an automated CCTV video summarization system that extracts key events, such as
+object detection and movement, from video footage. It uses YOLOv5 for real-time object detection and
+generates a detailed textual summary of the events, helping users quickly understand the content of long
+surveillance videos.
+- **Technologies Used:** Image Processing,yolov5, Streamlit,OpenAI GPT - 4o,Visual Studio Code , Gen AI .
+- **Features:** Gives a summerized text for the video footage that extracts  the key events.
 - **GitHub Repository:** [Real-Time Product Recommendation System](https://github.com/Vijisdurai/datathon.git)
 
-### Edo Scheduler
-- **Description:** Edo Scheduler is a task scheduling web application designed for effective task management, note-taking, and habit tracking. It provides features like task prioritization, calendar views, and responsive design for enhancing productivity and organization.
-- **Technologies Used:** HTML, CSS, JavaScript, FullCalendar, LocalStorage, Bootstrap, Moment.js, FontAwesome
-- **Features:** To-do list, Notes, Habit tracker, Calendar view.
-- **GitHub Repository:** [Edo Scheduler](https://github.com/Vijisdurai/EdoScheduler.git)
+### Sample Web Page for a Company
+- **Description:** The repository "Product Company Website" showcases a responsive website design for a software product company, built using HTML and CSS. It highlights a clean and structured layout, suitable for showcasing company products and services effectively.
+- **Technologies Used:** HTML, CSS, Visual Studio Code , Gen AI 
+- **Features:** Engaging section ,which is useful for the users to access their needed sections
+- **GitHub Repository:** [WebPage for a Product Company](https://github.com/dharani18p/productcompanywebsite)
+
+  ### Event Registeration Using Figma
+- **Description:** The Event Registration  is a web application developed using Figma Tool, designed to streamline the registration process for events. It includes structured content, visual elements, and clear design steps to enhance user experience.
+- **Technologies Used:** Figma, Figma Tools
+- **Features:** Product comparisons based on price , Personalized Recommendations and eal-Time Comparison.
+- **GitHub Repository:** [Event Registeration Using Figma](https://github.com/dharani18p/event-registration)
+
 
 ---
 
@@ -68,15 +80,15 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ## Participation
 - Participated in **Hack With Folks 2023**, showcasing innovative ideas for food reuse.
 - Contributed to the **Amazon ML Challenge 2024**, competing against 74,000+ teams.
-- Engaged in the **Cryptrix 2024 Code Hunt**, demonstrating advanced problem-solving skills.
+- Engaged in **IBM Datathon 2023 ,2024** initiated a play in being a part of the datathon.
 - Represented Saveetha Engineering College in **various coding and innovation events**.
 
 ---
 
 ## Coding Profiles
-- [LeetCode](https://leetcode.com/u/vijishdurai006/)
-- [HackerRank](#)
-- [CodeChef](#)
+
+- [HackerRank](https://www.hackerrank.com/dashboard)
+- [CodeChef](https://www.codechef.com/dashboard)
 - [GeeksforGeeks](#)
 - [AtCoder](#)
 
@@ -92,18 +104,20 @@ I am passionate about technology, coding, and solving complex problems. My focus
 ---
 
 ## Experience
-### Web Application Developer Intern | Arjun Vision Solutions
+### Mobile Application Developer Intern | Arjun Vision Tech Solutions
 - **Duration:** July 2024 - August 2024
-- **Responsibilities:** Developed websites using HTML, CSS, JavaScript. Managed version control with Git and facilitated team collaboration.
-
+- **Description:** Worked and got a breif experience on hand-on projects that we are using regularly. 
 ### Volunteer Coordinator | Drestin – National Symposium
-- **Duration:** October 2024 - November 2024
-- **Responsibilities:** Coordinated communication and managed volunteer onboarding for a large-scale academic event.
-
+- **Duration:** October 2023 - November 2023
+- **Description:** Successfully organized and managed a event named **Riddle SQL**, ensuring smooth execution and participant engagement.
+### Member of EcoEnvironment | Redhills
+- **Duration:** January 2023 – Present
+- **Description:** Actively participating in environmental sustainability initiatives by promoting cleanliness and greenery.
+ 
 ---
 
 ## Contact
 reach out to me at:
-- **What's App:** 908005064
+- **What's App:** 9176780818
 - **Email:** [vijisduraioffical@gmail.com](mailto:vijisduraioffical@gmail.com)
 - **LinkedIn:** [Vijis Durai](https://www.linkedin.com/in/vijis-durai-r-801143298)
