@@ -77,9 +77,12 @@ surveillance videos.
 
 ## Highlighting my engagement
 
-[Cyber Security Threats.pdf](https://github.com/user-attachments/files/18269818/Cyber.Security.Threats.pdf)
-[Intro to firewall.pdf](https://github.com/user-attachments/files/18269819/Intro.to.firewall.pdf)
-[Networks Atacks.pdf](https://github.com/user-attachments/files/18269820/Networks.Atacks.pdf)
+![image](https://github.com/user-attachments/assets/53d11d96-5c2a-4f07-8d42-531cf4f60564)
+![image](https://github.com/user-attachments/assets/4a358933-027b-42c3-acbc-c82c733c3310)
+![image](https://github.com/user-attachments/assets/8109e1d8-edb7-4019-af62-3c13fe231312)
+
+
+
 
 
 ---
