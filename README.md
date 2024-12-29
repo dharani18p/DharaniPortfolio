@@ -66,6 +66,21 @@ surveillance videos.
 ### Volunteer Coordinator | Drestin – National Symposium
 - **Duration:** October 2023 - November 2023
 - **Description:** Successfully organized and managed a event named **Riddle SQL**, ensuring smooth execution and participant engagement.
+### Completion of Computer Software College(CSC)| 2018 
+- **Duration:** May 2018-June 2018 
+- **Description:** Engaged with Mircosoft Word,Excel,Tally
+  ### Been as a Consistent Performer in Scholling | School
+- **Duration:** Schooling
+- **Description:** Being a High Enegertic Student, Got continuous Merit certficates.
+### Been as a School Class Leader for 6 years | School
+- **Duration:** From 6th -12th std
+- **Description:** Being a Active student I have been opted as class leader for 6 years continuously .
+### District level  Champion | Yoga
+- **Duration:** 18 06 2016
+- **Description:** District level yoga competition 2016
+### Participant of World Record  | Yoga
+- **Duration:** 4th December 2016
+- **Description:** Performed SIRSHANA to support yoga education to fight Diabetes/Cancer
 ### Member of EcoEnvironment | Redhills
 - **Duration:** January 2023 – Present
 - **Description:** Actively participating in environmental sustainability initiatives by promoting cleanliness and greenery.
@@ -77,9 +92,19 @@ surveillance videos.
 
 ## Highlighting my engagement
 
+![image](https://github.com/user-attachments/assets/f8fc0c3d-3cb0-437c-989b-3bc3e41f214a)
+![image](https://github.com/user-attachments/assets/9b0d6efb-1b5a-4f6c-ab75-0654ef82ceaf)
 ![image](https://github.com/user-attachments/assets/53d11d96-5c2a-4f07-8d42-531cf4f60564)
+![image](https://github.com/user-attachments/assets/82190f35-6e7c-46b0-bfab-1854472c1e26)
+![image](https://github.com/user-attachments/assets/faee904a-1489-450a-88b6-6e67c7785113)
+![image](https://github.com/user-attachments/assets/4c5cae49-56dd-42e9-b322-3714d52a36d9)
+![image](https://github.com/user-attachments/assets/765be760-fdfb-4814-8b10-c232873faec0)
+
+
 ![image](https://github.com/user-attachments/assets/4a358933-027b-42c3-acbc-c82c733c3310)
 ![image](https://github.com/user-attachments/assets/8109e1d8-edb7-4019-af62-3c13fe231312)
+![image](https://github.com/user-attachments/assets/835fcece-1882-4561-b304-d07c1d494e25)
+
 
 
 
