@@ -48,7 +48,7 @@ surveillance videos.
 - **Features:** Engaging section ,which is useful for the users to access their needed sections
 - **GitHub Repository:** [WebPage for a Product Company](https://github.com/dharani18p/productcompanywebsite)
 
-  ### Event Registeration Using Figma
+### Event Registeration Using Figma
 - **Description:** The Event Registration  is a web application developed using Figma Tool, designed to streamline the registration process for events. It includes structured content, visual elements, and clear design steps to enhance user experience.
 - **Technologies Used:** Figma, Figma Tools
 - **Features:** Product comparisons based on price , Personalized Recommendations and eal-Time Comparison.
