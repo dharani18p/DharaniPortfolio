@@ -81,6 +81,9 @@ surveillance videos.
 ### Participant of World Record  | Yoga
 - **Duration:** 4th December 2016
 - **Description:** Performed SIRSHANA to support yoga education to fight Diabetes/Cancer
+###  Asprining Sport Student  | Yoga
+- **Duration:** Schooling
+- **Description:** Performed and Participated in many sport activities like Football,Shuttle, etc,.
 ### Member of EcoEnvironment | Redhills
 - **Duration:** January 2023 – Present
 - **Description:** Actively participating in environmental sustainability initiatives by promoting cleanliness and greenery.
@@ -102,6 +105,11 @@ surveillance videos.
 ![image](https://github.com/user-attachments/assets/4a358933-027b-42c3-acbc-c82c733c3310)
 ![image](https://github.com/user-attachments/assets/8109e1d8-edb7-4019-af62-3c13fe231312)
 ![image](https://github.com/user-attachments/assets/835fcece-1882-4561-b304-d07c1d494e25)
+![IMG-20241229-WA0075](https://github.com/user-attachments/assets/cbeee2cd-b818-40f0-a45d-2ac97fbfffb8)
+![IMG-20241229-WA0072](https://github.com/user-attachments/assets/0e112682-d17c-455b-891a-9f7a6b316367)
+![IMG-20241229-WA0073](https://github.com/user-attachments/assets/65f89507-8ec1-45aa-b882-d5dde4a75b76)
+![IMG-20241229-WA0093](https://github.com/user-attachments/assets/4d8cdeff-b4bf-4583-bb7b-808f3e12e7c2)
+
 
 
 
