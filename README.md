@@ -1,4 +1,4 @@
-# Vijis Durai R - Portfolio
+### DHARANI P - Portfolio
 
 Welcome to my portfolio! I am a student from the Department of Information Technology, aspiring to make impactful contributions in the IT industry. This repository showcases my projects, coding skills, accomplishments, and problem-solving abilities.
 
@@ -20,7 +20,7 @@ Welcome to my portfolio! I am a student from the Department of Information Techn
 ## About Me
 I am passionate about technology, coding, and solving complex problems. My focus areas include software development, algorithms, and data structures. I aim to enhance my skills and contribute to innovative and user-friendly technological solutions.
 
-- **Name:** Vijis Durai R
+- **Name:** DHARANI P
 - **Department:** Information Technology
 - **Year:** 3rd Year
 - **LinkedIn:** [LeetCode/Vijis Durai](https://www.linkedin.com/in/vijis-durai-r-801143298)
