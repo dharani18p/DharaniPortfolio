@@ -69,7 +69,7 @@ surveillance videos.
 ### Completion of Computer Software College(CSC)| 2018 
 - **Duration:** May 2018-June 2018 
 - **Description:** Engaged with Mircosoft Word,Excel,Tally
-  ### Been as a Consistent Performer in Scholling | School
+### Been as a Consistent Performer in Schooling | School
 - **Duration:** Schooling
 - **Description:** Being a High Enegertic Student, Got continuous Merit certficates.
 ### Been as a School Class Leader for 6 years | School
