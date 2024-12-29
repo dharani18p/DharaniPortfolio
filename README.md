@@ -40,7 +40,7 @@ generates a detailed textual summary of the events, helping users quickly unders
 surveillance videos.
 - **Technologies Used:** Image Processing,yolov5, Streamlit,OpenAI GPT - 4o,Visual Studio Code , Gen AI .
 - **Features:** Gives a summerized text for the video footage that extracts  the key events.
-- **GitHub Repository:** [Real-Time Product Recommendation System](https://github.com/Vijisdurai/datathon.git)
+- **GitHub Repository:** [cctv -analyzer](https://github.com/dharani18p/cctv-analyzer)
 
 ### Sample Web Page for a Company
 - **Description:** The repository "Product Company Website" showcases a responsive website design for a software product company, built using HTML and CSS. It highlights a clean and structured layout, suitable for showcasing company products and services effectively.
