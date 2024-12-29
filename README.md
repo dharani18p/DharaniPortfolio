@@ -4,7 +4,7 @@
 Highly Energetic and Active student with good problem solving and tacktical technique. I will ensure you that, I can prove my consistency and the effect that would make the outcome to the core.
 
 - **Name:** DHARANI P
-- **Reg No** 212222220011
+- **Reg No:** 212222220011
 - **Department:** Information Technology
 - **Year:** 3rd Year
 - **College:** Saveetha Engineering College
@@ -23,13 +23,7 @@ Highly Energetic and Active student with good problem solving and tacktical tech
 - **Other Skills:**          ~ Team Collaboration, Decision-Making ,Time Management ,Problem-Solving, Responsive Thinking, Creative and Innovation
 ---
 
-## Coding Profiles
 
-- [HackerRank](https://www.hackerrank.com/profile/dharani1806p)
-- [CodeChef](https://www.codechef.com/users/valid_shine_28)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/dharaniz7r1/?ref=header_profile)
-
----
 
 ## Projects
 ### GotIt- AI-Driven Multilingual Text Summarizer: Enhancing Efficiency and Accessibility
@@ -78,28 +72,10 @@ surveillance videos.
  
 ---
 
-## Certifications
-- **[MongoDB for Students](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/mongo%20db_page-0001.jpg)** (ID: MDBqgbgvg5xzj)
 
-- **[Microsoft Azure AI Associate](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/IMG-20241022-WA0215.jpg)** (ID: S1853140)
-- **[IBM Z Skills](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/course/IBM%20Z%20SKILLS.png)**
 
----
 
-## Accomplishments
-- 1st Place in [Code Blitz](https://github.com/Vijisdurai/Vijis-Durai-R-Portfolio/blob/main/certificate/achievements/code%20blitz.jpg) (Saveetha Engineering College)
-- 1st Place in Brand Artistry (TEXUS'24, SRM Institute of Science and Technology)
-- 3rd Place in Code Hunt (Cryptrix 2024, St. Joseph's College of Engineering)
-- Honorable Mention in Ideathon (Hack With Folks, 2023)
-- Ranked 695th in the Amazon ML Challenge 2024 among 74,000+ teams.
-
----
-
-## Active Participation  
-- Participated in **Hack With Folks 2023**, showcasing innovative ideas for food reuse.
-- Contributed to the **Amazon ML Challenge 2024**, competing against 74,000+ teams.
-- Engaged in **IBM Datathon 2023 ,2024** initiated a play in being a part of the datathon.
-- Represented Saveetha Engineering College in **various coding and innovation events**.
+## Highlighting my engagement
 
 ---
 
