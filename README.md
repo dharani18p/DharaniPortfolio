@@ -99,8 +99,6 @@ surveillance videos.
 ![image](https://github.com/user-attachments/assets/faee904a-1489-450a-88b6-6e67c7785113)
 ![image](https://github.com/user-attachments/assets/4c5cae49-56dd-42e9-b322-3714d52a36d9)
 ![image](https://github.com/user-attachments/assets/765be760-fdfb-4814-8b10-c232873faec0)
-
-
 ![image](https://github.com/user-attachments/assets/4a358933-027b-42c3-acbc-c82c733c3310)
 ![image](https://github.com/user-attachments/assets/8109e1d8-edb7-4019-af62-3c13fe231312)
 ![image](https://github.com/user-attachments/assets/835fcece-1882-4561-b304-d07c1d494e25)
