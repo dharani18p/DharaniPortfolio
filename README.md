@@ -1,21 +1,3 @@
-#  DHARANI P - Portfolio
-
-Welcome to my portfolio! I am a student from the Department of Information Technology, aspiring to make impactful contributions in the IT industry. This repository showcases my projects, coding skills, accomplishments, and problem-solving abilities.
-
----
-
-## Table of Contents
-1. [About Me](#about-me)
-2. [Mini Projects](#mini-projects)
-3. [Certifications](#certifications)
-4. [Accomplishments](#accomplishments)
-5. [Participations](#participation)
-6. [Coding Profiles](#coding-profiles)
-7. [Skills](#skills)
-8. [Experience](#experience)
-9. [Contact](#contact)
-
----
 
 ## About Me
 
@@ -25,7 +7,7 @@ Highly Energetic and Active student with good problem solving and tacktical tech
 - **Reg No** 212222220011
 - **Department:** Information Technology
 - **Year:** 3rd Year
-- - **College:** Saveetha Engineering College
+- **College:** Saveetha Engineering College
 - **LinkedIn:** [dharani18p-LinkedIn](https://www.linkedin.com/in/dharani-p-794905270/)
 - **GitHub:** [dharani18p-Github](https://github.com/dharani18p)
 
