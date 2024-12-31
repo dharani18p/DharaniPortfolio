@@ -15,7 +15,7 @@ Highly Energetic and Active student with good problem solving and tacktical tech
 
 
 ## Skills
-- **Programming Languages:** ~ Python, Java, C, HTML, CSS
+- **Programming Languages:** ~ Java, Python, C
 - **Web Development:**       ~ HTML, CSS
 - **Software Tools**         ~ AutoDesk-Fusion360,Figma,Star UML,Android Studio,Visual Studio
 - **Database Management:**   ~ MySQL, MongoDB
