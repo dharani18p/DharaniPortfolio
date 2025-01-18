@@ -138,13 +138,10 @@ surveillance videos.
 
 ---
 
-
-
-
-
-
 ## Contact
 reach out to me at:
 - **What's App:** 9176780818
 - **Email:** [dharani1806p@gmail.com](mailto:dharani1806p@gmail.com)
 - **LinkedIn:** [dharani18p-LinkedIn](https://www.linkedin.com/in/dharani-p-794905270/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
