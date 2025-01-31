@@ -25,6 +25,7 @@ Highly Energetic and Active student with good problem solving and tacktical tech
 
 ## Coding Profiles
  **LeetCode Rank: 17,86,233[Leetcode](https://leetcode.com/u/dharani18p/)**
+ 
 **Talentely Scored 1000 EIS Points [Talentely](https://lms.talentely.com/profile)** 
 
 ## Projects
